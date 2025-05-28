@@ -1,0 +1,7 @@
+export { Navigation } from './Navigation'
+export { HeroSection } from './HeroSection'
+export { AboutSection } from './AboutSection'
+export { FeaturesSection } from './FeaturesSection'
+export { PricingSection } from './PricingSection'
+export { HowItWorksSection } from './HowItWorksSection'
+export { Footer } from './Footer' 

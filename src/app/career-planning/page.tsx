@@ -22,7 +22,8 @@ import {
   ArrowRight,
   PieChart,
   LineChart,
-  Globe
+  Globe,
+  MessageSquare
 } from "lucide-react"
 import Link from "next/link"
 
